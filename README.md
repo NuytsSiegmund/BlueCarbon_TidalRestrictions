@@ -10,6 +10,9 @@ Blue carbon ecosystems (BCEs), encompassing mangroves, saltmarshes, and seagrass
 
 The dataset includes both known and newly detected tidal restrictions along the Victorian coastline, along with their assessed suitability for restoration. It provides a comprehensive mapping of potential sites for blue carbon ecosystem restoration through tidal reconnection.
 
+## Contributing
+🙌 You can get involved! Have you spotted tidal restrictions in Australia? Share your insights on this form and help us expand our efforts to identify sites for restoration! deakin.au/4c52zch 
+
 ## File Format
 
 The data is provided in ESRI Shapefile format, including the following files:
@@ -31,7 +34,6 @@ The shapefile includes the following attributes:
 7. Elev_Prof: Presence of typical elevation profile (1 if present, 0 if not)
 8. Prox_Hydro: Proximity to hydrological features (1 if within 250m, 0 if not)
 9. Current_Use: Current functional purpose of the restriction (e.g., 'None', 'Salt Pond', 'Sewage Treatment')
-10. Region: Coastal region (e.g., 'Port Phillip', 'Western Port', 'Corner Inlet', 'Gippsland Lakes')
 
 ## Usage
 
@@ -40,7 +42,7 @@ This dataset can be used to identify potential sites for blue carbon restoration
 ## Citation
 
 If you use this dataset, please cite:
-Nuyts, S., Wartman, M., Macreadie, P.I., Costa, M.D.P. (2024). Mapping tidal restrictions to support blue carbon restoration. Science of The Total Environment
+Nuyts, S., Wartman, M., Macreadie, P. I., & Costa, M. D. P. (2024). Mapping tidal restrictions to support blue carbon restoration. Science of The Total Environment, 175085. https://doi.org/https://doi.org/10.1016/j.scitotenv.2024.175085 
 
 ## License
 
